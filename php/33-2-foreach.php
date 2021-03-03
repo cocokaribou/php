@@ -10,4 +10,17 @@
 		echo 'id '.$wp['id'];
 		echo '<br><br>';
 	}
+
+	//output
+	//name arrow
+	//id a
+	// 
+	//name blade
+	//id b
+	// 
+	//name cannon
+	//id c
+	// 
+	//name dagger
+	//id d
 ?>
